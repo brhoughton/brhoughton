@@ -6,7 +6,7 @@ My name is Breck and I am a seasoned Creative Director and Front-End Developer w
 
 ## ⚡️ Tech Stack
 
-Here are a few things I've picked up along this journey.
+Here are a few things I've picked up along my journey.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0dc50?style=for-the-badge&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-2782ff?style=for-the-badge&logo=typescript&logoColor=ffffff) ![React](https://img.shields.io/badge/React-20b8ff?style=for-the-badge&logo=react&logoColor=ffffff) ![HTML](https://img.shields.io/badge/HTML-ff780b?style=for-the-badge&logo=HTML) ![StyleX](https://img.shields.io/badge/StyleX-ff47f0?style=for-the-badge&logo=StyleX) ![Tailwind](https://img.shields.io/badge/Tailwind-00d8ff?style=for-the-badge&logo=Tailwind) ![CSS](https://img.shields.io/badge/CSS-0066ff?style=for-the-badge&logo=CSS)
 
