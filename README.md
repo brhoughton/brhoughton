@@ -1,7 +1,7 @@
 
 # 👋 Hi!
 
-My name is Breck and I am a seasoned Creative Director and Front-End Developer with a passion for bringing ideas to life through a harmonious blend of creativity and technology. With a strong background in front-end development, motion design, 3D modeling and rendering, and visual communications, I specialize in transforming concepts into captivating and functional visual experiences that resonate.
+My name is Breck and I am a seasoned Creative Director and Front-End Developer with a passion for bringing ideas to life through a harmonious blend of creativity and technology. With a strong background in front-end development, motion design, 3D modeling and rendering, and visual communications I'm able to transform concepts into functionally captivating experiences that resonate.
 
 
 ## ⚡️ Tech Stack
@@ -18,7 +18,7 @@ Here are a few things I've picked up along my journey.
 
 
 ## 📫 Get in touch
-[mail](mailto:breck.houghton@gmail.com)
+Want to connect? Send me an [email](mailto:breck.houghton@gmail.com)
 
 
 <!--START_SECTION:waka-->
