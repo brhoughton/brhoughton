@@ -18,7 +18,7 @@ Here are a few things I've picked up along this journey.
 
 
 ## 📫 Get in touch
-[mail](mailto:breck.houghton@gmail.com) .
+[mail](mailto:breck.houghton@gmail.com)
 
 
 <!--START_SECTION:waka-->
