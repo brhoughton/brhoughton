@@ -17,10 +17,6 @@ Here are a few things I've picked up along my journey.
 ![AfterEffects](https://img.shields.io/badge/AfterEffects-361a56?style=for-the-badge&logo=adobe%20after%20effects) ![Premiere](https://img.shields.io/badge/Premiere-361a56?style=for-the-badge&logo=adobe%20premiere%20pro) ![InDesign](https://img.shields.io/badge/InDesign-0f3768?style=for-the-badge&logo=adobe%20indesign) ![Illustrator](https://img.shields.io/badge/Illustrator-0f3768?style=for-the-badge&logo=adobe%20illustrator) ![Photoshop](https://img.shields.io/badge/Photoshop-0f3768?style=for-the-badge&logo=adobe%20photoshop)
 
 
-## 📫 Get in touch
-Want to connect? Send me an [email](mailto:breck.houghton@gmail.com)
-
-
 <!--START_SECTION:waka-->
 
 ```rust
@@ -36,3 +32,9 @@ Other        0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
+
+
+## 📫 Get in touch
+
+Want to connect? Send me an [email](mailto:breck.houghton@gmail.com)
+
