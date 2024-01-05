@@ -38,4 +38,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📫 Get in touch
 
-<a href="https://www.linkedin.com/in/breck-houghton/"><img src="https://img.shields.io/badge/LinkedIn-f1f1f1?style=for-the-badge&logo=LinkedIn&logoColor=008ff3"></a> <a href="mailto:breck.houghton@gmail.com"><img src="https://img.shields.io/badge/Email-f1f1f1?style=for-the-badge&logo=Gmail"></a>
+<a href="https://www.linkedin.com/in/breck-houghton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-f1f1f1?style=for-the-badge&logo=LinkedIn&logoColor=008ff3"></a> <a href="mailto:breck.houghton@gmail.com"><img src="https://img.shields.io/badge/Email-f1f1f1?style=for-the-badge&logo=Gmail"></a>
