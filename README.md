@@ -10,11 +10,11 @@ Here are a few things I've picked up along my journey.
 
 ![JavaScript](https://img.shields.io/badge/javascript-f1f1f1?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-f1f1f1?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-f1f1f1?style=for-the-badge&logo=react) 
 
-![NodeJS](https://img.shields.io/badge/Node.JS-f1f1f1?style=for-the-badge&logo=node.js) ![NextJS](https://img.shields.io/badge/Next.JS-f1f1f1?style=for-the-badge&logo=next.js) ![Vite](https://img.shields.io/badge/Vite-f1f1f1?style=for-the-badge&logo=vite&logoColor=%23fffff) ![MySQL](https://img.shields.io/badge/MySQL-f1f1f1?style=for-the-badge&logo=mysql) ![Git](https://img.shields.io/badge/Git-f1f1f1?style=for-the-badge&logo=git)
+![NodeJS](https://img.shields.io/badge/Node.JS-f1f1f1?style=for-the-badge&logo=node.js) ![NextJS](https://img.shields.io/badge/Next.js-f1f1f1?style=for-the-badge&logo=next.js&logoColor=000000) ![Vite](https://img.shields.io/badge/Vite-f1f1f1?style=for-the-badge&logo=vite&logoColor=%23fffff) ![MySQL](https://img.shields.io/badge/MySQL-f1f1f1?style=for-the-badge&logo=mysql) ![Git](https://img.shields.io/badge/Git-f1f1f1?style=for-the-badge&logo=git)
 
 ![HTML](https://img.shields.io/badge/HTML-f1f1f1?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-f1f1f1?style=for-the-badge&logo=CSS3&logoColor=42adff) ![Tailwind](https://img.shields.io/badge/Tailwind-f1f1f1?style=for-the-badge&logo=TailWindcss)
 
-![Cinema4D](https://img.shields.io/badge/Cinema%204D-f1f1f1?style=for-the-badge&logo=cinema%204d) ![Octane](https://img.shields.io/badge/Octane-f1f1f1?style=for-the-badge&logo=octane) ![Redshift](https://img.shields.io/badge/Redshift-f1f1f1?style=for-the-badge&logo=redshift)
+![Cinema4D](https://img.shields.io/badge/Cinema%204D-f1f1f1?style=for-the-badge&logo=cinema%204d&logoColor=4e2fd2) ![Octane](https://img.shields.io/badge/Octane-f1f1f1?style=for-the-badge&logo=octane%20render&logoColor=e80000)
 
 ![AfterEffects](https://img.shields.io/badge/AfterEffects-f1f1f1?style=for-the-badge&logo=adobe%20after%20effects) ![Premiere](https://img.shields.io/badge/Premiere-f1f1f1?style=for-the-badge&logo=adobe%20premiere%20pro) ![InDesign](https://img.shields.io/badge/InDesign-f1f1f1?style=for-the-badge&logo=adobe%20indesign) ![Illustrator](https://img.shields.io/badge/Illustrator-f1f1f1?style=for-the-badge&logo=adobe%20illustrator) ![Photoshop](https://img.shields.io/badge/Photoshop-f1f1f1?style=for-the-badge&logo=adobe%20photoshop)
 
