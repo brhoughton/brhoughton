@@ -8,9 +8,11 @@ My name is Breck and I am a seasoned Creative Director and Front-End Developer w
 
 Here are a few things I've picked up along my journey.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f1f1f1?style=for-the-badge&logo=javascript&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-f1f1f1?style=for-the-badge&logo=typescript&logoColor=ffffff) ![React](https://img.shields.io/badge/React-f1f1f1?style=for-the-badge&logo=react&logoColor=ffffff) ![HTML](https://img.shields.io/badge/HTML-f1f1f1?style=for-the-badge&logo=html5) ![Tailwind](https://img.shields.io/badge/Tailwind-f1f1f1?style=for-the-badge&logo=Tailwind%20css) ![CSS](https://img.shields.io/badge/CSS-0066ff?style=for-the-badge&logo=CSS)
+![JavaScript](https://img.shields.io/badge/javascript-ffffff?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react) 
 
 ![NodeJS](https://img.shields.io/badge/Node.JS-f1f1f1?style=for-the-badge&logo=node.js) ![NextJS](https://img.shields.io/badge/Next.JS-f1f1f1?style=for-the-badge&logo=next.js) ![Vite](https://img.shields.io/badge/Vite-f1f1f1?style=for-the-badge&logo=vite&logoColor=%23fffff) ![MySQL](https://img.shields.io/badge/MySQL-f1f1f1?style=for-the-badge&logo=mysql) ![Git](https://img.shields.io/badge/Git-f1f1f1?style=for-the-badge&logo=git)
+
+![HTML](https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-ffffff?style=for-the-badge&logo=CSS3&logoColor=42adff) ![Tailwind](https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=TailWindcss)
 
 ![Cinema4D](https://img.shields.io/badge/Cinema%204D-f1f1f1?style=for-the-badge&logo=cinema%204d) ![Octane](https://img.shields.io/badge/Octane-f1f1f1?style=for-the-badge&logo=octane) ![Redshift](https://img.shields.io/badge/Redshift-f1f1f1?style=for-the-badge&logo=redshift)
 
