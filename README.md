@@ -23,6 +23,16 @@ Want to connect? Send me an [email](mailto:breck.houghton@gmail.com)
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 04 January 2024 - To: 05 January 2024
 
+Total Time: 2 hrs 32 mins
+
+TypeScript   2 hrs 27 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.56 %
+HTML         2 mins          -------------------------   01.42 %
+CSS          1 min           -------------------------   01.21 %
+Git          1 min           -------------------------   00.78 %
+Other        0 secs          -------------------------   00.01 %
+```
 
 <!--END_SECTION:waka-->
