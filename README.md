@@ -22,14 +22,16 @@ Here are a few things I've picked up along my journey.
 <!--START_SECTION:waka-->
 
 ```js
-From: 04 January 2024 - To: 09 January 2024
+From: 04 January 2024 - To: 10 January 2024
 
-Total Time: 8 hrs 1 min
+Total Time: 12 hrs 11 mins
 
-TypeScript   7 hrs 19 mins   ██████████████████████▓░░   91.33 %
-HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Git          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TypeScript   7 hrs 19 mins   ███████████████░░░░░░░░░░   60.06 %
+HTML         1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+JavaScript   1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+CSS          51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Git          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
