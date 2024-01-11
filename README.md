@@ -22,15 +22,17 @@ Here are a few things I've picked up along my journey.
 <!--START_SECTION:waka-->
 
 ```js
-From: 04 January 2024 - To: 10 January 2024
+From: 04 January 2024 - To: 11 January 2024
 
-Total Time: 12 hrs 11 mins
+Total Time: 18 hrs 44 mins
 
-TypeScript   7 hrs 19 mins   ███████████████░░░░░░░░░░   60.06 %
-HTML         1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-JavaScript   1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-CSS          51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Git          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript   10 hrs 57 mins  ██████████████▓░░░░░░░░░░   58.46 %
+CSS          2 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+HTML         2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+JavaScript   2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Git          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
