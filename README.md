@@ -22,19 +22,18 @@ Here are a few things I've picked up along my journey.
 <!--START_SECTION:waka-->
 
 ```js
-From: 04 January 2024 - To: 11 January 2024
+From: 04 January 2024 - To: 12 January 2024
 
-Total Time: 18 hrs 44 mins
+Total Time: 22 hrs 42 mins
 
-TypeScript   10 hrs 57 mins  ██████████████▓░░░░░░░░░░   58.46 %
-CSS          2 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-HTML         2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-JavaScript   2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Git          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   14 hrs 54 mins  ████████████████▒░░░░░░░░   65.68 %
+CSS          2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+HTML         2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+JavaScript   2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Git          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
