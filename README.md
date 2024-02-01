@@ -1,7 +1,7 @@
 
 # 👋 Hi!
 
-My name is Breck and I am a seasoned Creative Director and Front-End Developer with a passion for bringing ideas to life through a blend of creativity and technology. With a strong background in front-end development, motion design, 3D modeling and rendering, and visual communications I'm able to transform concepts into functionally captivating experiences that resonate.
+I'm Breck, an experienced Creative Director and Front-End Developer who thrives on the fusion of creativity and technology. With a robust skill set spanning front-end development, motion design, 3D modeling, rendering, and visual communications, I possess the ability to convert concepts into engaging, functional experiences that truly connect.
 
 
 ## ⚡️ Tech Stack
