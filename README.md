@@ -22,7 +22,7 @@ Here are a few things I've picked up along my journey.
 <!--START_SECTION:waka-->
 
 ```js
-From: 04 January 2024 - To: 06 March 2024
+From: 04 January 2024 - To: 07 March 2024
 
 Total Time: 111 hrs 42 mins
 
