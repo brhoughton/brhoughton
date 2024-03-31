@@ -22,13 +22,13 @@ Here are a few things I've picked up along my journey.
 <!--START_SECTION:waka-->
 
 ```js
-From: 04 January 2024 - To: 28 March 2024
+From: 04 January 2024 - To: 29 March 2024
 
-Total Time: 120 hrs 53 mins
+Total Time: 120 hrs 58 mins
 
-TypeScript   73 hrs 49 mins  ███████████████▒░░░░░░░░░   61.00 %
-JavaScript   27 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-HTML         5 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TypeScript   73 hrs 49 mins  ███████████████▒░░░░░░░░░   60.96 %
+JavaScript   27 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+HTML         5 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 CSS          4 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 Vue.js       4 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 Git          1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
