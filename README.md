@@ -22,15 +22,15 @@ Here are a few things I've picked up along my journey.
 <!--START_SECTION:waka-->
 
 ```js
-From: 04 January 2024 - To: 29 May 2024
+From: 04 January 2024 - To: 30 May 2024
 
-Total Time: 137 hrs 48 mins
+Total Time: 138 hrs 20 mins
 
-TypeScript    80 hrs 55 mins  ██████████████▓░░░░░░░░░░   58.65 %
-JavaScript    31 hrs 32 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
-HTML          7 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-CSS           7 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Vue.js        4 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+TypeScript    80 hrs 55 mins  ██████████████▓░░░░░░░░░░   58.43 %
+JavaScript    31 hrs 32 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+HTML          7 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+CSS           7 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Vue.js        4 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 JSON          2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 Markdown      1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 Git           1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
