@@ -22,20 +22,20 @@ Here are a few things I've picked up along my journey.
 <!--START_SECTION:waka-->
 
 ```js
-From: 04 January 2024 - To: 04 June 2024
+From: 04 January 2024 - To: 05 June 2024
 
-Total Time: 138 hrs 24 mins
+Total Time: 139 hrs 7 mins
 
-TypeScript    80 hrs 55 mins  ██████████████▓░░░░░░░░░░   58.40 %
-JavaScript    31 hrs 32 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-HTML          7 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-CSS           7 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Vue.js        4 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JSON          2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Markdown      1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Git           1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+TypeScript    80 hrs 55 mins  ██████████████▓░░░░░░░░░░   58.10 %
+JavaScript    31 hrs 32 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+HTML          8 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+CSS           7 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Vue.js        4 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+JSON          2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Markdown      1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Git           1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 INI           34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Prisma        27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Prisma        27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
